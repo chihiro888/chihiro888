@@ -68,3 +68,10 @@
   <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white">&nbsp
 </p>
+
+<h3 align="center">🏆 Competitive Programming</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fchihiro888&style=flat-square">&nbsp
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fchihiro888&style=flat-square">
+</p>
