@@ -75,3 +75,9 @@
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fchihiro888&style=flat-square">&nbsp
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fchihiro888&style=flat-square">
 </p>
+
+<h3 align="center">🎮 Problem solving</h3>
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chihiro888">&nbsp
+</p>
